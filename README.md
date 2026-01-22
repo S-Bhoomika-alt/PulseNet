@@ -1,11 +1,8 @@
 # PulseNet
-Full-stack social networking application
-# PulseNet 🚀
-
 PulseNet is a full-stack social networking platform that enables users to connect,
 share posts, manage friendships, and interact securely.
 
-## 🔗 Project Repositories
+## Project Repositories
 
 ### Frontend
 https://github.com/S-Bhoomika-alt/Pulsenet_frontend
@@ -27,13 +24,13 @@ https://github.com/S-Bhoomika-alt/Pulsenet_backend
 - MongoDB Atlas
 - JWT Authentication
 
-## ✨ Features
+## Features
 - User authentication (JWT)
 - Profile management with image upload
 - Friend request system (send / accept / reject)
 - Post creation and feed
 - Secure REST APIs
 
-## 🚀 Deployment
+## Deployment
 - Backend deployed with MongoDB Atlas
 - Frontend and backend deployed independently
